@@ -9,6 +9,6 @@
 - Score-Based Generative Modeling through Stochastic Differential Equations (Paper)[https://arxiv.org/abs/2011.13456]
 
 ### Physic-driven: Others
-Poisson Flow Generative Models [Paper](https://arxiv.org/abs/2209.11178)
-PFGM++: Unlocking the Potential of Physics-Inspired Generative Models [Paper](https://arxiv.org/abs/2302.04265)
-Consistency Models [Paper](https://arxiv.org/abs/2303.01469)
+- Poisson Flow Generative Models [Paper](https://arxiv.org/abs/2209.11178)
+- PFGM++: Unlocking the Potential of Physics-Inspired Generative Models [Paper](https://arxiv.org/abs/2302.04265)
+- Consistency Models [Paper](https://arxiv.org/abs/2303.01469)
