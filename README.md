@@ -6,7 +6,7 @@
 - Denoising Diffusion Implicit Models [Paper](https://arxiv.org/abs/2010.02502)
 - High-Resolution Image Synthesis with Latent Diffusion Models [Paper](https://arxiv.org/abs/2112.10752)
 - Score-based Generative Modeling in Latent Space [Project](https://nvlabs.github.io/LSGM/)
-- Score-Based Generative Modeling through Stochastic Differential Equations (Paper)[https://arxiv.org/abs/2011.13456]
+- Score-Based Generative Modeling through Stochastic Differential Equations [Paper](https://arxiv.org/abs/2011.13456)
 
 ### Physic-driven: Others
 - Poisson Flow Generative Models [Paper](https://arxiv.org/abs/2209.11178)
