@@ -12,3 +12,5 @@
 - Poisson Flow Generative Models [Paper](https://arxiv.org/abs/2209.11178)
 - PFGM++: Unlocking the Potential of Physics-Inspired Generative Models [Paper](https://arxiv.org/abs/2302.04265)
 - Consistency Models [Paper](https://arxiv.org/abs/2303.01469)
+
+## Concept-based
