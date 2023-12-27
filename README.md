@@ -14,3 +14,8 @@
 - Consistency Models [Paper](https://arxiv.org/abs/2303.01469)
 
 ## Concept-based
+
+
+## Useful Repo
+- [https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging]
+- [https://github.com/diff-usion/Awesome-Diffusion-Models]
