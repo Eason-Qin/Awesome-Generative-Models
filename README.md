@@ -14,7 +14,7 @@
 - Consistency Models [Paper](https://arxiv.org/abs/2303.01469)
 
 ## Concept-based
-
+- Concept Bottleneck Generative Models [Paper](https://openreview.net/pdf?id=L9U5MJJleF)
 
 ## Useful Repo
 - [https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging]
