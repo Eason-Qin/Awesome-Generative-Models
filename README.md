@@ -16,6 +16,10 @@
 ## Concept-based
 - Concept Bottleneck Generative Models [Paper](https://openreview.net/pdf?id=L9U5MJJleF)
 
+## Medical
+- DIFFUSION PROBABILISTIC MODELS BEAT GAN ON MEDICAL 2D IMAGES [Paper](https://arxiv.org/pdf/2212.07501.pdf)
+- SYNFUNDUS: A SYNTHETIC FUNDUS IMAGES DATASET WITH MILLIONS OF SAMPLES AND MULTI-DISEASE ANNOTATIONS [Paper](https://arxiv.org/pdf/2312.00377.pdf)
+
 ## Useful Repo
 - [https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging]
 - [https://github.com/diff-usion/Awesome-Diffusion-Models]
